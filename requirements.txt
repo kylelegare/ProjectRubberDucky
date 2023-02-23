@@ -1,0 +1,6 @@
+openai
+SpeechRecognition
+requests
+streamlit
+keyboard
+PyAudio
